@@ -1,4 +1,7 @@
 .jumbotron{
     background-image: url("../img/81sMEvzsAxL.jpg");
-    height: 180;
+    height: 1080px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
